@@ -1,28 +1,28 @@
 {
-  "name": "@joxtacy/prettier-config",
-  "version": "0.0.1",
-  "description": "My Prettier configuration",
-  "main": "index.js",
-  "scripts": {
-    "prettify": "prettier --write .",
-    "test": "prettier --check ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Joxtacy/prettier-config.git"
-  },
-  "keywords": [
-    "prettier",
-    "config",
-    "prettierconfig"
-  ],
-  "author": "Jesper Hasselquist <jesper.hasselquist@gmail.com> (https://joxtacy.github.io/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Joxtacy/prettier-config/issues"
-  },
-  "homepage": "https://github.com/Joxtacy/prettier-config#readme",
-  "devDependencies": {
-    "prettier": "^2.2.1"
-  }
+    "name": "@joxtacy/prettier-config",
+    "version": "0.0.1",
+    "description": "My Prettier configuration",
+    "main": "index.js",
+    "scripts": {
+        "prettify": "prettier --write .",
+        "test": "prettier --check ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Joxtacy/prettier-config.git"
+    },
+    "keywords": [
+        "prettier",
+        "config",
+        "prettierconfig"
+    ],
+    "author": "Jesper Hasselquist <jesper.hasselquist@gmail.com> (https://joxtacy.github.io/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Joxtacy/prettier-config/issues"
+    },
+    "homepage": "https://github.com/Joxtacy/prettier-config#readme",
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    }
 }

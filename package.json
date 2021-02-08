@@ -4,6 +4,7 @@
   "description": "My Prettier configuration",
   "main": "index.js",
   "scripts": {
+    "prettify": "prettier --write .",
     "test": "prettier --check ."
   },
   "repository": {
